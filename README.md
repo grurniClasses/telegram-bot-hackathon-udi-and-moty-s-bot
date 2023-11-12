@@ -1,9 +1,8 @@
-# 🚧 YOUR BOT NAME HERE
+# My Shopping List Bot
 
 ## The Team
-- 🚧 Participant 1 Name
-- 🚧 Participant 2 Name
-- 🚧 Participant 3 Name
+- Udi
+- Moty
 
 ## About this bot
 
